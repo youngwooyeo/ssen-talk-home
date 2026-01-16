@@ -6,7 +6,7 @@
       <div class="hero-left">
         <h1>
           더 빠른 경험을 위해<br />
-          <strong>Notion 데스크톱</strong><br />
+          <strong>SsenTalk 데스크톱</strong><br />
           앱을 다운로드하세요
         </h1>
 
@@ -39,7 +39,7 @@
 
     <!-- Footer -->
     <section class="footer-download">
-      <h2>데스크톱용 Notion 다운로드</h2>
+      <h2>데스크톱용 SsenTalk 다운로드</h2>
       <p>더 빠르고 더 집중적인 경험이 기다립니다.</p>
     </section>
   </div>
